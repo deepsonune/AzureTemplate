@@ -1,0 +1,2 @@
+# AzureTemplate
+Store Azure Template
